@@ -1,5 +1,5 @@
 Shopy App:
-\n
+
 Welcome to the Shopy App! This project allows users to buy and sell products through posts. It's built using Firebase for the backend and Expo's Auth Session for authentication.
 
 Features
