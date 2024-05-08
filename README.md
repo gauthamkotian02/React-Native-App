@@ -1,5 +1,6 @@
-Shopy App
-Welcome to the Buy & Sell App! This project allows users to buy and sell products through posts. It's built using Firebase for the backend and Expo's Auth Session for authentication.
+Shopy App:
+\n
+Welcome to the Shopy App! This project allows users to buy and sell products through posts. It's built using Firebase for the backend and Expo's Auth Session for authentication.
 
 Features
 User Authentication: Secure user authentication powered by Expo's Auth Session.
@@ -14,6 +15,6 @@ Authentication: Expo Auth Session
 Getting Started
 Follow these steps to get the project up and running on your local machine:
 
-Prerequisites
+Prerequisites:
 Node.js installed on your machine
 Expo CLI installed globally (npm install -g expo-cli)
